@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "4ff08356-2d6b-49f5-9e8f-936958c7dfac",
+            "Value": {
+                "id": "475e348b-3837-44c6-995d-e5a90c29a359",
+                "resourcePath": "sprites\\sprite25\\sprite25.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5d1fd8cc-38d2-4d81-9aba-975f34e0863b",
             "Value": {
                 "id": "38a285a0-095b-4404-81ea-ac6a8132bf24",
