@@ -18,8 +18,10 @@ switch(keyboard_key){
 		break
 	case ord("A"):
 		x -= spd 
+		sprite_index = man_walk_left_spr
 		break
 	case ord("D"):
+		sprite_index = man_walk_right_spr
 		x += spd 
 		break
 	default:

@@ -1,1 +1,1 @@
-new_room = room1;
+new_room = guest_room;

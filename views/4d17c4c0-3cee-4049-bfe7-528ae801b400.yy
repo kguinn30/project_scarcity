@@ -19,7 +19,8 @@
         "a13b5c35-c2c5-4daa-8354-962d1e71ab71",
         "23932b14-01f0-4072-877d-edb78af9d51b",
         "6d8d0370-5e38-4fc3-8d6a-4699e9a9eb77",
-        "84e90af7-26ae-4ded-b103-a81bc15ac4d2"
+        "84e90af7-26ae-4ded-b103-a81bc15ac4d2",
+        "377adefc-47d1-46ad-9907-a936fd50811f"
     ],
     "filterType": "GMSprite",
     "folderName": "castle_sprites",

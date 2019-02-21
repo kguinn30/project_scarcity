@@ -6,7 +6,8 @@
     "children": [
         "d77c049b-a243-4eb7-8171-f3ee0943b28c",
         "c91c29a1-30cb-48de-bf8a-17d18257c471",
-        "d6c7e5e4-85cc-457c-bd39-197cb4538769"
+        "d6c7e5e4-85cc-457c-bd39-197cb4538769",
+        "75fa7270-c726-4f77-960d-b4249911ecef"
     ],
     "filterType": "GMObject",
     "folderName": "castle_obj",
